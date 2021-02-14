@@ -1,0 +1,13 @@
+h2 {
+    color: darksalmon;
+    font-family: monospace;
+}
+
+h1 {
+    font-family: Cambria;
+    color: aliceblue;
+}
+
+body {
+    background-image: url('b.jpg');
+}
